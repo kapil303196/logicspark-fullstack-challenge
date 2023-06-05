@@ -1,6 +1,6 @@
 # Real-time Geo-tagging Image Sharing Platform
 
-![Company Logo](http://logicspark.io/wp-content/uploads/2023/02/PNG_01.png)
+![Company Logo](http://logicspark.io/wp-content/uploads/2023/02/PNG_02.png)
 
 This is a real-time Geo-tagging Image Sharing Platform built using React, Node.js, and MongoDB. The platform allows users to share images they've taken at different locations and view images shared by others at the same or different locations.
 
